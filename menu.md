@@ -29,6 +29,8 @@
 |2. |HAWAJSKA (Szynka, ananas, ser mozzarella, ziołowy sos pomidorowy)| |36zł |46zł | 49zł|
 |3. |AMERICANA (Pieczarki, pomidory, ser mozzarella, ziołowy sos pomidorowy)| |39zł |49zł | 49zł|
 
+<img src = "pizzeria/45298844-v-1500x1500.jpg" width = 300>
+
 ## Sałatki
 
 1. Sałatka z serem korycińskim - 25zł
