@@ -48,6 +48,7 @@
 ## Napoje
 
 <img src = "img.pizzeria/TremontiGusto22_2.jpg" width = 300>
+<img src = "pizzeria/56.jpg" width = 300>
 
 |Lp.|Napój                                                                      |pojemność:| 330ml |500ml |
 |---|---------------------------------------------------------------------------|----------|-------|------|
