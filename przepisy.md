@@ -1,4 +1,4 @@
-### PRZEPISY
+### PRZEPISY (zrób to sam!)
 
 1. *Oryginalne włoskie ciasto na pizzę*
 
@@ -44,6 +44,16 @@ Na lekko oprószonej mąką powierzchni rozwałkuj ciasto na pożądaną gruboś
 Nałóż ulubione składniki na ciasto i piecz w nagrzanym do 250°C piekarniku (lub na maksymalnej temperaturze twojego piekarnika) przez około 10-12 minut, aż ciasto będzie złociste, a ser roztopiony i lekko przypieczony.
 
 *Buon Appetito!*
+
+2. *Truskawki pod kruszonką*
+
+   Składniki:
+Na nadzienie:
+
+- 500 g truskawek, umytych i pokrojonych na połówki lub ćwiartki
+- 2-3 łyżki cukru (ilość do smaku)
+- 1 łyżeczka soku z cytryny
+- 1 łyżka mąki ziemniaczanej (opcjonalnie, jeśli truskawki są bardzo soczyste)
 
 
 
