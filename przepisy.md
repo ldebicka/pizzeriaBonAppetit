@@ -48,6 +48,8 @@ Nałóż ulubione składniki na ciasto i piecz w nagrzanym do 250°C piekarniku 
 
 *Buon Appetito!*
 
+<img src = "img.przepisy/deser_truskawki_1000x1000.jpg" width = 300>
+
 2. *Truskawki pod kruszonką*
 
    Składniki:
