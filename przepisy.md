@@ -55,6 +55,40 @@ Na nadzienie:
 - 1 łyżeczka soku z cytryny
 - 1 łyżka mąki ziemniaczanej (opcjonalnie, jeśli truskawki są bardzo soczyste)
 
+Na kruszonkę:
 
+- 150 g mąki
+- 100 g masła, zimnego i pokrojonego w kostkę
+- 80 g cukru (biały lub brązowy)
+- 1 łyżeczka cukru waniliowego (opcjonalnie)
+szczypta soli
+
+## Instrukcje:
+
+- Przygotowanie truskawek:
+
+W misce wymieszaj truskawki z cukrem, sokiem z cytryny i mąką ziemniaczaną (jeśli używasz). Odstaw na bok.
+
+- Przygotowanie kruszonki:
+
+W dużej misce wymieszaj mąkę, cukier, cukier waniliowy i sól.
+Dodaj zimne masło i szybko zagnieć palcami lub przy pomocy miksera, aż powstaną grudki przypominające kruszonkę.
+
+- Składanie deseru:
+
+Przełóż truskawki do naczynia żaroodpornego, równomiernie rozprowadzając po dnie.
+Posyp truskawki kruszonką, równomiernie ją rozkładając.
+
+- Pieczenie:
+
+Nagrzej piekarnik do 180°C.
+Piecz truskawki pod kruszonką przez około 30-35 minut, aż kruszonka będzie złocista, a truskawki miękkie i soczyste.
+
+- Podawanie:
+
+Wyjmij deser z piekarnika i odstaw na kilka minut, aby lekko ostygł.
+Podawaj na ciepło, najlepiej z lodami waniliowymi lub bitą śmietaną.
+
+Smacznego!
 
 
