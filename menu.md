@@ -57,6 +57,7 @@
 |3. |Herbata czarna                                                             |          |8zł    | 13zł |
 |4. |Kawa mrożona                                                               |          |9zł    |14zł  |
 |5. |Piwo                                                                       |          |9zł    |14zł  |
+|6. |Lemoniada                                                                  |          |12zł   |16zł  |
 
 <img src = "pizzeria/deser_lody_1000x1000.jpg" width = 300> 
 
