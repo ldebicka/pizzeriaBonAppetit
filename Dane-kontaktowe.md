@@ -5,7 +5,7 @@
 **Bydgoszcz** 
 ul. Juliusza Kossaka 23
 
-Godziny otwarcia
+**Godziny otwarcia**
 
  poniedziałek 13:00 - 22:55 
  wtorek 13:00 - 22:55
@@ -15,7 +15,7 @@ Godziny otwarcia
  sobota 13:00 - 22:55
  niedziela 13:00 - 22:55
 
-Nasze usługi
+**Nasze usługi**
 
 Zamówienia z dostawą już w 30 minut
 Zamówienia na wynos już w 15 minut
