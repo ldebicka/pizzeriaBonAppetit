@@ -21,6 +21,8 @@
 |2. |VEGE MANIA (Pieczarki, świeży szpinak, zielona papryka, pomidorki koktajlowe)| |38zł |48zł |53zł |
 |3. |SUPER SUPREME (Pepperoni, wołowina, pikantna wieprzowina, szynka, cebula, zielona papryka)| |38zł |48zł |55zł|
 
+<img src = "pizzeria/shutterstock_413417941-1180x543.jpg.webp" width = 300>
+
 ## Pizze wegetariańskie
 
 |Lp.|Pizza                                                                      |rozmiar:| 30cm |50cm |60cm |
