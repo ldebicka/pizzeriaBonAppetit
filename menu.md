@@ -21,6 +21,19 @@
 |2. |VEGE MANIA (Pieczarki, świeży szpinak, zielona papryka, pomidorki koktajlowe)| |38zł |48zł |53zł |
 |3. |SUPER SUPREME (Pepperoni, wołowina, pikantna wieprzowina, szynka, cebula, zielona papryka)| |38zł |48zł | 55zł|
 
+## Pizze wegetariańskie
+
+|Lp.|Pizza                                                                      |rozmiar:| 30cm |50cm |60cm |
+|---|---------------------------------------------------------------------------|--------|-------|----|-----|
+|1. |MARGHERITA (Mozzarella, ziołowy sos pomidorowy)| |34zł | 40zł|49zł |
+|2. |HAWAJSKA (Szynka, ananas, ser mozzarella, ziołowy sos pomidorowy)| |36zł |46zł | 49zł|
+|3. |AMERICANA (Pieczarki, pomidory, ser mozzarella, ziołowy sos pomidorowy)| |39zł |49zł | 49zł|
+
+## Sałatki
+
+1. Sałatka z serem korycińskim - 25zł
+2. Sałatka z soją - 23 zł
+
 ## Sosy
 
 <img src = "img.pizzeria/istockphoto-638790274-612x612.jpg" width = 200>
