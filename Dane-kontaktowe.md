@@ -26,14 +26,14 @@ tel. +48 555 689 742
 
 **Nasze usługi**
 
-Zamówienia z dostawą już w 30 minut
+- Zamówienia z dostawą już w 30 minut
 
-Zamówienia na wynos już w 15 minut
+- Zamówienia na wynos już w 15 minut
 
-Zamówienia online
+- Zamówienia online
 
-Zamówienia telefoniczne
+- Zamówienia telefoniczne
 
-Catering do biur i na eventy
+- Catering do biur i na eventy
 
-Dania wegetariańskie
+- Dania wegetariańskie
