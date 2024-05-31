@@ -71,7 +71,7 @@
 ## Promocje 
 
 Pizza 20% taniej (ważny do 30.06.2024r.)
-DRUGIE ŁÓDECZKI ZIEMNIACZANE -50%! (ważny do 31.12.2024)
+DRUGIE ŁÓDECZKI ZIEMNIACZANE -50%! (ważny do 31.12.2024r.)
 DRUGIE PIECZYWO CZOSNKOWE ZA 6 ZŁ!( ważny do 3.06.2024r.)
 
 
