@@ -19,7 +19,7 @@
 |---|---------------------------------------------------------------------------|--------|-------|----|-----|
 |1. |EUROPEJSKA (Wołowina, szynka, pieczarki, mozzarella, ziołowy sos pomidorowy)| |36zł | 46zł|53zł |
 |2. |VEGE MANIA (Pieczarki, świeży szpinak, zielona papryka, pomidorki koktajlowe)| |38zł |48zł |53zł |
-|3. |SUPER SUPREME (Pepperoni, wołowina, pikantna wieprzowina, szynka, cebula, zielona papryka)| |38zł |48zł | 55zł|
+|3. |SUPER SUPREME (Pepperoni, wołowina, pikantna wieprzowina, szynka, cebula, zielona papryka)| |38zł |48zł |55zł|
 
 ## Pizze wegetariańskie
 
