@@ -1,5 +1,5 @@
 ### PRZEPISY
-(zrób to sam!)
+(zrób to sam w domu!)
 
 <img src = "img.przepisy/3593067-Gotowanie-w-domu-staje-sie-czyms-wiecej-niz-tylko-przygotowywaniem-posilkow.webp" width = 300>
 
