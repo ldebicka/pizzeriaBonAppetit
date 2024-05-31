@@ -4,6 +4,7 @@
 
 **Bydgoszcz** 
 ul. Juliusza Kossaka 23
+tel. +48 555 689 742
 
 **Godziny otwarcia**
 
