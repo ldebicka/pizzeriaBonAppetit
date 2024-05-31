@@ -68,6 +68,9 @@
 3. JABŁKO POD KRUSZONKĄ - 12zł
 4. LAVA CAKE - 18zł
 
+## Promocje 
+
+Pizza do 20% taniej (ważny do 30.06.2024r.)
 
 
 
