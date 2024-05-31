@@ -58,9 +58,11 @@
 |4. |Kawa mrożona                                                               |          |9zł    |14zł  |
 |5. |Piwo                                                                       |          |9zł    |14zł  |
 
+<img src = "pizzeria/deser_lody_1000x1000.jpg" width = 300> 
+
 ## Lody i desery
 
-1.HOT CHOCOLATE COOKIE - 17zł
+1. HOT CHOCOLATE COOKIE - 17zł
 2. TRUSKAWKI POD KRUSZONKĄ - 13zł
 
 
