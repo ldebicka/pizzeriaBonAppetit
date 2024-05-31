@@ -70,7 +70,7 @@
 
 ## Promocje 
 
-Pizza do 20% taniej (ważny do 30.06.2024r.)
+Pizza 20% taniej (ważny do 30.06.2024r.)
 
 
 
