@@ -9,7 +9,7 @@
 |1. |MARGHERITA (Mozzarella, ziołowy sos pomidorowy)| |34zł | 40zł|49zł |
 |2. |PEPPERONI (Pepperoni, mozzarella,  ziołowy sos pomidorowy)| |35zł |45zł |49zł |
 |3. |HAWAJSKA (Szynka, ananas, ser mozzarella, ziołowy sos pomidorowy)| |36zł |46zł | 49zł|
-|4. |FARMERSKA (Grillowany kurczak, pieczarki, mozzarella, ziołowy sos)| |39zł |49zł | 49zł|
+|4. |FARMERSKA (Grillowany kurczak, pieczarki, mozzarella, ziołowy sos)| |39zł |49zł | 49zł| 
 
 ## Pizze sezonowe
 
