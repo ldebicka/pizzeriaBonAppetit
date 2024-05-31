@@ -1,6 +1,8 @@
 ### PRZEPISY
 (zrób to sam!)
 
+<img src = "img.przepisy/97E88D25-32FE-4CE2-9B28-0E724AC33BAA.jpg.avif" width = 300>
+
 1. *Oryginalne włoskie ciasto na pizzę*
 
    Składniki:
